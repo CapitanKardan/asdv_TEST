@@ -6,6 +6,7 @@ public class Main {
         System.out.println("yellow pink grey");
         // TODO: 30.09.2021 try new in this field of proffesstion
         System.out.println("GGP");
+        System.out.println("kek lol");
     }
 
 }
